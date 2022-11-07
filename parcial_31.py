@@ -8,6 +8,8 @@ print("\nEste programa está diseñado para traducir ADN a proteínas y " \
 '''Abrir el archivo fasta que se ingresa desde la terminal,
  ignorar la línea del título y eliminar los saltos de línea'''
 
+#Cambio
+
 ids = []
 secuencia = []
 string_ = ()
