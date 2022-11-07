@@ -1,6 +1,6 @@
 # Parcial_3
 
-Esta rutina es el paricla #3 de programación para ciancias biológicas.
+Esta rutina es el paricla #3 de programación para ciencias biológicas.
 
 # How is Works 
 
