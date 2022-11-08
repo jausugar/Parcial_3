@@ -1,7 +1,7 @@
 # Parcial_3
 
-Esta rutina es el parcial #3 de programación para ciencias biológicas.
-Esta puede identifica si la proteína de interés se encuentra en el organismo:
+Aquí se encuentra el parcial #3 de programación para ciencias biológicas.
+Esta rutina puede identificar si la proteína de interés se encuentra en el organismo:
  - Helicobacter pylori strain 7.13_R1b chromosome con código de GenBank NZ_CP024072
 
 # Intrucciones
