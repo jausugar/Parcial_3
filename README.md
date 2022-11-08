@@ -11,7 +11,7 @@ Esta puede identifica si la proteína de interés se encuentra en el organismo:
     python parcial_31.py "proteina".fasta  
 
 Esta rutina generará 4 archivos:
--revcom.fasta, el cual contiene un archivo fasta con las secuencias reveso complementario de la secuencia ingresada.
--SequenceAA_query.fasta, que contiene los ORF's encontrados en aminoácidos.
--salida_blas.tsv, que contiene todos los resultados obtenidos del blast.
--Resultados_blast_a_Hpylori.tsv, el cual es el resultado final con las secuencias identificadas.  
+ - revcom.fasta, el cual contiene un archivo fasta con las secuencias reveso complementario de la secuencia ingresada.
+ - SequenceAA_query.fasta, que contiene los ORF's encontrados en aminoácidos.
+ - salida_blas.tsv, que contiene todos los resultados obtenidos del blast.
+ - Resultados_blast_a_Hpylori.tsv, el cual es el resultado final con las secuencias identificadas.  
