@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "Helicobacter_pylori_prot",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Helicobacter_pylori_doc.faa.txt",
+  "number-of-letters": 509841,
+  "number-of-sequences": 1546,
+  "last-updated": "2022-11-07T22:53:00",
+  "number-of-volumes": 1,
+  "bytes-total": 972784,
+  "bytes-to-cache": 523884,
+  "files": [
+    "Helicobacter_pylori_prot.pdb",
+    "Helicobacter_pylori_prot.phr",
+    "Helicobacter_pylori_prot.pin",
+    "Helicobacter_pylori_prot.pot",
+    "Helicobacter_pylori_prot.psq",
+    "Helicobacter_pylori_prot.ptf",
+    "Helicobacter_pylori_prot.pto"
+  ]
+}

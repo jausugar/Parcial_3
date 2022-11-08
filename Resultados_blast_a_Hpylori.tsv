@@ -1,0 +1,7 @@
+Seq_Query	Perc_ident	E-value	bitscore	protein	Query_len
+NZ_CP024072_cagA_ORF1	100.0	0.0	2395.0	type IV secretion system oncogenic effector CagA	1185
+NZ_CP024072_polA_ORF1	100.0	0.0	1800.0	DNA polymerase I	894
+LN650056_babA_ORF1	85.561	0.0	1281.0	Hop family adhesin BabA	747
+LN650056_babA_ORF1	85.484	0.0	1272.0	Hop family adhesin BabA	747
+AB271161_alpA_ORF1	92.655	0.0	895.0	Hop family adhesin AlpB	526
+AB271161_alpA_ORF1	92.427	0.0	957.0	Hop family adhesin AlpA	516
